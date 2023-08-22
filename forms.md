@@ -1,0 +1,3 @@
+Программное редактирование форм
+
+https://github.com/huxuxuya/1cFormEditor
