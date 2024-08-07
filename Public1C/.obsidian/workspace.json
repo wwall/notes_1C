@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "42f0baf8d476e993",
+    "type": "split",
+    "children": [
+      {
+        "id": "1787c7d6607a929d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3f6186041b629bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1C/XDTO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "17c5fa3acd1166b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57254185fc612554",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea1a504df2e969c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "61cbaf3557a8b26e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73910e96da50d309",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be677108c7a47e5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3f0962d236446c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be7b51735524c5a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f4d60aeb3a45a13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18ed7a25c8ec29e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1C/XDTO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59aef15d128c61a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1C/XDTO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9022d02e888c4124",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4502866af042e7e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1C/XDTO.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f3f6186041b629bf",
+  "lastOpenFiles": [
+    "1C/Формы.md",
+    "1C/Запросы.md",
+    "Welcome.md",
+    "create a link.md",
+    "1C/XDTO.md",
+    "1C"
+  ]
+}
