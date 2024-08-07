@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Запросы.md",
+                "file": "XDTO.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Запросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Запросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Запросы.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,10 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1efa3177bcec10aa",
+  "active": "5f2bfba00e0587fa",
   "lastOpenFiles": [
-    "Формы.md",
+    "XDTO.md",
     "Welcome.md",
+    "Формы.md",
     "Запросы.md"
   ]
 }
